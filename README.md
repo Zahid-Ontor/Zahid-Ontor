@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 🎓 **B.Sc. in Software Engineering** from [Daffodil International University](https://daffodilvarsity.edu.bd)  
-🏢 **Principal Officer** (ICT Dept.), **Walton Hi-Tech Industries PLC**  
+🏢 **Sr.Principal Officer** (ICT Dept.), **Walton Hi-Tech Industries PLC**  
 🔬 AI Researcher focused on **Deep Learning**, **Medical Imaging**, and **Computer Vision**  
 🧠 Strong interest in solving real-world problems through **ML/AI** applications  
 📚 IEEE & peer-reviewed **author** of cervical cancer detection models  
@@ -55,11 +55,12 @@
 
 | 📖 Title                                                                                   | 🔗 Link |
 |--------------------------------------------------------------------------------------------|--------|
-| YOLO_CC: Cervical Cancer Detection Using YOLOv5s                                           | [IEEE Paper](https://ieeexplore.ieee.org/document/9807871) |
-| Cervical Malignant Cell Detection via YOLOv5 Variants                                     | [Journal Article](https://www.techscience.com/cmc/v74n2/50258) |
-| Parkinson Disease Identification using Ensemble ML                                         | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/parkinson1.ipynb) |
-| Brain Tumor Detection with XGBoost                                                        | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/brain_tumor.ipynb) |
-| Sugarcane Leaf Disease Detection with ResNet50                                            | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/sugarcane_.ipynb) |
+| YOLO_CC: Cervical Cancer Detection Using YOLOv5s                 | [IEEE Paper](https://ieeexplore.ieee.org/document/9807871) |
+| Cervical Malignant Cell Detection via YOLOv5 Variants            | [Journal Article](https://www.techscience.com/cmc/v74n2/50258) |
+| CKD Prediction Using Federated Learning & Ensemble Methods       | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/Federated_CKD_Model.ipynb) |
+| Parkinson Disease Identification using Ensemble ML               | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/parkinson1.ipynb) |
+| Brain Tumor Detection with XGBoost                               | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/brain_tumor.ipynb) |
+| Sugarcane Leaf Disease Detection with ResNet50                   | [GitHub](https://github.com/Zahid-Ontor/Data-Science/blob/master/ML/projects/sugarcane_.ipynb) |
 
 ---
 
